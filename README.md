@@ -1,4 +1,4 @@
-# Credit-Scoring-Project-using-Machine-Learning
+# Credit-Scoring-Model-Project-using-Machine-Learning
 
 # CODE ALPHA INTERNSHIP PERKS 
 
