@@ -14,11 +14,9 @@ The credit score of a person determines the creditworthiness of the person. It h
 ## Table of Contents
 
 - [Overview](#overview)
-- [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Web App](#web-app)
@@ -26,9 +24,6 @@ The credit score of a person determines the creditworthiness of the person. It h
 - [License](#license)
 - [Contact](#contact)
 
-## Dataset
-
-The dataset used for this project can be found on [Kaggle](https://statso.io/credit-score-classification-case-study/) and it is also stored in the `data` directory. It includes anonymized information on various customers, such as income, age, credit history, loan amount, and their corresponding credit score class. The data is split into a training set and a test set, located in the `data/train.csv` and `data/test.csv` respectively.
 
 ## Installation
 
@@ -55,12 +50,6 @@ The project offers the following features:
 5. Hyperparameter Tuning: Optimize model performance by tuning hyperparameters using techniques like Grid Search.
 6. Model Deployment: Deploy the best performing model for real-world predictions.
 
-## Model Training
-
-To train the credit score classification model:
-
-1. Run the script `train.py` to train the models using the training data. Note : Clean the training data using `Credit-score-classification(Data Prep).ipynb` or use the `Data/cleaned_train.csv`.
-2. The script will automatically save the trained models in the `models` directory.
 
 ## Evaluation
 
